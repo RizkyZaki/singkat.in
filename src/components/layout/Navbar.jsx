@@ -1,5 +1,5 @@
 import React from "react";
-import { ModeToggle } from "./ModeToggleDarkMode";
+import { ModeToggle } from "../ModeToggleDarkMode";
 import {
   InstagramLogoIcon,
   GitHubLogoIcon,
