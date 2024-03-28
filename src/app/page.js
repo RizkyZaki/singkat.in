@@ -1,8 +1,8 @@
 import React from "react";
-import Navbar from "@/components/Navbar"; // Pastikan Anda telah mengimpor komponen Navbar
+import Navbar from "@/components/layout/Navbar";
 import { InputShortener } from "@/components/InputShortener";
-import Footer from "@/components/Footer";
-import Heading from "@/components/Heading";
+import Footer from "@/components/layout/Footer";
+import Heading from "@/components/layout/Heading";
 
 export default function Home() {
   return (
