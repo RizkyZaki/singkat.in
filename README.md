@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- Welcome Text -->
+<h1 align="center">Welcome to Singkat.in!</h1>
 
-## Getting Started
+<!-- Description -->
+<p align="center">Singkat.in is a practical solution to quickly and easily convert long URLs into short ones. With our service, you can generate shorter and more memorable links, ideal for shortening long and complex links.</p>
 
-First, run the development server:
+<!-- Header Image -->
+<p align="center">
+  <img src="public/image.PNG" alt="Header Image">
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Key Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Short & Memorable:** Singkat.in helps you create shorter links, making them easy to remember and share.
+- **Easy to Use:** Our intuitive user interface allows you to shorten URLs in just a few clicks.
+- **Free and Unlimited:** Singkat.in is free to use without limitations, so you can shorten as many links as you need.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## How to Use
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. **Shorten URL:** Enter your long URL into the search box.
+2. **Click Fast:** just clicking once will generate sonic power.
+3. **Sharing:** Copy the newly generated link and share it with friends, family, or on your favorite social platform.
 
-## Learn More
+## About Us
 
-To learn more about Next.js, take a look at the following resources:
+Singkat.in is built with love by our development team to provide a simple yet effective solution for shortening links. We are committed to providing a reliable and helpful service to our users.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contact Us
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Do you have questions, feedback, or feature requests? Feel free to contact our team via email at [rizkyzaki682@gmail.com](mailto:rizkyzaki682@gmail.com).
 
-## Deploy on Vercel
+With Singkat.in, making links shorter and easier to remember has never been easier. Join us and start shortening your links today!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+By Zach
