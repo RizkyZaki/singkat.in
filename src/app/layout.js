@@ -7,6 +7,7 @@ const fontSans = FontSans({
 });
 
 import { ThemeProvider } from "@/components/theme-provider";
+import { Toaster } from "react-hot-toast";
 
 export const metadata = {
   title: "Singkat.in",
@@ -22,6 +23,7 @@ export default function RootLayout({ children }) {
           fontSans.variable
         )}
       >
+        <Toaster position="bottom-center" />
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
